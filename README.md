@@ -23,10 +23,16 @@ To showcase my learning progress and provide reference material for others follo
 ## Getting Started
 
 - Install dependencies
+
+```
   npm install
+```
 
 - Run the project
+
+```
   npm start
+```
 
 ## Connect
 

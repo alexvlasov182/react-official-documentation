@@ -1,10 +1,10 @@
-import './Profile.css';
+import "./Profile.css";
 
 const user = {
   name: "Amazing Hedy Lamarr",
-  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
+  imageUrl: "https://i.imgur.com/yXOvdOSs.jpg",
   imageSize: 90,
-}
+};
 
 export default function Profile() {
   return (
@@ -13,12 +13,12 @@ export default function Profile() {
       <img
         className="avatar"
         src={user.imageUrl}
-        alt={'Photo of ' + user.name}
+        alt={"Photo of " + user.name}
         style={{
           width: user.imageSize,
           height: user.imageSize,
         }}
       />
     </>
-  )
+  );
 }

@@ -39,4 +39,4 @@ To showcase my learning progress and provide reference material for others follo
 For questions or collaboration:
 
 - Email: drumlife182@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oleksandr-vlasov-9969ab19b/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/oleksandr-vlasov-9969ab19b/)
